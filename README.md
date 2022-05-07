@@ -1,3 +1,4 @@
-# Welcome World!
+#Sentiment Analysis with Python Azure Functions
 
-This repo is an archive for a hands-on project i worked on.
+Built a serverless HTTP API with Azure Functions ( that takes a sentence as an input & returns the sentiment of the sentence)
+Run and debug the API locally on machine.
