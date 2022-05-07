@@ -1,0 +1,10 @@
+B
+
+    ðB _¦  ã               @   s0   d dl mZ d dlmZ ejejdœdd„ZdS )é    N)ÚSentimentIntensityAnalyzer)ÚreqÚreturnc             C   s:   t ƒ }| j d¡}| |¡}|d dkr,dnd}t |¡S )NÚtextÚcompoundr   z#Yes! I'm a Pythonista and Loving itÚnegative)r   ÚparamsÚgetZpolarity_scoresÚfuncÚHttpResponse)r   Zanalyzerr   ZscoresÚ	sentiment© r
+   ú>C:\Users\HP\Documents\Sentiment Analysis\sentiment\__init__.pyÚmain   s
+    
+r   )Úazure.functionsÚ	functionsr
+   ZvaderSentiment.vaderSentimentr   ZHttpRequestr   r   r
+   r
+   r
+   r   Ú<module>   s   
